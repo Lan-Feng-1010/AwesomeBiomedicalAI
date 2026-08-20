@@ -1,6 +1,6 @@
 **Maintainer:** @Meng Wei @Lan Feng
 
-**Notebook:** [NotebookLM](https://notebook.google.com/notebook/b25c668a-4926-45b8-bca3-329885628a36)
+**Notebook:** [Paper cards for all 27 entries](paper_cards)
 
 # AI Agents
 
